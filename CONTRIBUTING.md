@@ -1,1 +1,3 @@
-
+- Don't mess everything up
+- Write good code
+- Be nice
